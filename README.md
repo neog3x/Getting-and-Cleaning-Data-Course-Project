@@ -1,7 +1,7 @@
-================================================================== \#\#
-Human Activity Recognition Using Smartphones Dataset Version 1.0
-================================================================== Jorge
-L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. Smartlab -
+
+# Human Activity Recognition Using Smartphones Dataset Version 1.0
+
+Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. Smartlab -
 Non Linear Complex Systems Laboratory DITEN - Università degli Studi di
 Genova. Via Opera Pia 11A, I-16145, Genoa, Italy.
 <a href="mailto:activityrecognition@smartlab.ws" class="email">activityrecognition@smartlab.ws</a>
@@ -30,7 +30,7 @@ was used. From each window, a vector of features was obtained by
 calculating variables from the time and frequency domain. See
 ‘features\_info.txt’ for more details.
 
-\#\# For each record it is provided:
+For each record it is provided:
 ====================================
 
 -   Triaxial acceleration from the accelerometer (total acceleration)
@@ -40,7 +40,7 @@ calculating variables from the time and frequency domain. See
 -   Its activity label.
 -   An identifier of the subject who carried out the experiment.
 
-\#\# The dataset includes the following files:
+The dataset includes the following files:
 ==============================================
 
 -   ‘README.txt’
@@ -82,7 +82,7 @@ descriptions are equivalent.
     velocity vector measured by the gyroscope for each window sample.
     The units are radians/second.
 
-\#\# Notes:
+Notes:
 ===========
 
 -   Features are normalized and bounded within \[-1,1\].
@@ -91,7 +91,7 @@ descriptions are equivalent.
 For more information about this dataset contact:
 <a href="mailto:activityrecognition@smartlab.ws" class="email">activityrecognition@smartlab.ws</a>
 
-\#\# License:
+License:
 =============
 
 Use of this dataset in publications must be acknowledged by referencing
